@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1056556688623",
+    "project_id": "eme-game",
+    "storage_bucket": "eme-game.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056556688623:android:a5eb2b4b8277f25825a71a",
+        "android_client_info": {
+          "package_name": "com.BCC.EME"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs8zlWNeA27f7VGrFv9IZW4amMDIyP1WY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
